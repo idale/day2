@@ -1,0 +1,53 @@
+body {
+	font-family: helvetica;
+	background-color:#333333;
+	border-style: solid;
+	border-width: 5px;
+	margin:30px;
+	border-color: #ababab;
+	padding:50px;}
+
+nav {
+	color:white;
+	text-align: center}
+
+a{
+	
+	color:green;}
+
+a:hover{
+	color:red;
+}
+
+hr{
+	margin: 30px 0px 30px 0px;
+	border-color:#ababab;}
+
+h1{
+	font-family: Times; 
+	text-align:center; 
+	font-style: italic; 
+	color:white}
+
+h2{
+	font-family: 
+	helvetica; font-style: 
+	bold; color: white;}
+
+p{
+	font-family: times; 
+	font-style: bold; 
+	color: white;
+
+line-height: 1.5em;
+font-size: 14pt;}
+
+img {
+	float: right;
+	margin: 0px 0px 30px 30px;
+	height: 250px;
+	width: auto;
+	padding: 5px;
+	border: 1px solid #ababab;
+background-color: #333333;
+	}
